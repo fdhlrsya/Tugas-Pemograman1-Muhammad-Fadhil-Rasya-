@@ -1,3 +1,4 @@
+package M_Fadhil_Rasya_P2.latihan;
 
 import java.util.Scanner;
 

@@ -1,3 +1,5 @@
+package M_Fadhil_Rasya_P3;
+
 import java.util.Scanner;
 
 public class tugas3 {
@@ -29,10 +31,6 @@ public class tugas3 {
             System.out.println("Bobot Uas :" + bUas);
             System.out.println("Total    :" + total);
         }
-
-
-
-
 
     }
 }
